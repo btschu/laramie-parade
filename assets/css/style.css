@@ -408,7 +408,7 @@ h6 {
   position: relative;
   height: 65vh;
   display: flex;
-  justify-content: end;
+  /* justify-content: end; */
   align-items: center;
   flex-direction: column;
   background: rgb(0,0,0);
@@ -494,6 +494,7 @@ h6 {
   font-weight: 900;
   font-size: 5vw;
   text-align: center;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 #hero h1 span {
   color: #c7a877;
